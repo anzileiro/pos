@@ -1,0 +1,18 @@
+{
+  "name": "make",
+  "version": "1.0.0",
+  "description": "api para sistema de chamadas",
+  "main": "/api/configurations/start.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anderson Anzileiro",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4",
+    "johnny-five": "^0.9.37",
+    "md5": "^2.1.0",
+    "mongoose": "^4.4.11"
+  }
+}
